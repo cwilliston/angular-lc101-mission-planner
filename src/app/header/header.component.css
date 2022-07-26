@@ -5,9 +5,11 @@
 h2 {
     text-align: center;
     color: brown;
+    font-family: 'Trebuchet MS';
 }
 
 h1 {
     text-align: center;
     text-decoration: underline;
+    font-family: 'Trebuchet MS';
 }
